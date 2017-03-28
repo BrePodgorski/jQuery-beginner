@@ -1,0 +1,1 @@
+This is my first attempt at jQuery. My second week at Coding Dojo has allowed me to begin working with JavaScript and understand the very basics of jQuery. This first assignment is working with dissappearing pictures using different jQuery functionalities.
